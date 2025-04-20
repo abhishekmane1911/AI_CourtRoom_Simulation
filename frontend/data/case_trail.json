@@ -1,0 +1,590 @@
+{
+    "case_details": {
+      "case_id": "CR-2025-002",
+      "title": "The People vs. Jamie Lee",
+      "case_number": "2025-CR-002",
+      "plaintiff": "The People",
+      "defendant": "Jamie Lee",
+      "court": "Superior Court of Example County",
+      "judge": "Hon. Taylor Morgan",
+      "status": "Closed",
+      "description": "The defendant, Jamie Lee, is charged with grand theft auto for allegedly stealing a red 2004 Corvette from Martinez Car Sales."
+    },
+    "trial_conversation": [
+      {
+        "turn": 1,
+        "role": "bailiff",
+        "content": "All rise. Department One of the Superior Court is now in session, the Honorable Judge Taylor Morgan presiding.",
+        "timestamp": "2025-04-19T09:00:00Z"
+      },
+      {
+        "turn": 2,
+        "role": "judge",
+        "content": "Please be seated. Calling the case of The People versus Jamie Lee. Are both sides ready?",
+        "timestamp": "2025-04-19T09:00:30Z"
+      },
+      {
+        "turn": 3,
+        "role": "prosecution",
+        "content": "Ready for the People, Your Honor.",
+        "timestamp": "2025-04-19T09:01:00Z"
+      },
+      {
+        "turn": 4,
+        "role": "defense",
+        "content": "Ready for the defense, Your Honor.",
+        "timestamp": "2025-04-19T09:01:10Z"
+      },
+      {
+        "turn": 5,
+        "role": "clerk",
+        "content": "Will the jury please stand and raise your right hand? Do each of you swear that you will fairly try the case before this court, and that you will return a true verdict according to the evidence and the instructions of the court?",
+        "timestamp": "2025-04-19T09:01:30Z"
+      },
+      {
+        "turn": 6,
+        "role": "jury",
+        "content": "I do.",
+        "timestamp": "2025-04-19T09:01:40Z"
+      },
+      {
+        "turn": 7,
+        "role": "judge",
+        "content": "You may be seated. Prosecution, you may begin with your opening statement.",
+        "timestamp": "2025-04-19T09:02:00Z"
+      },
+      {
+        "turn": 8,
+        "role": "prosecution",
+        "content": "Ladies and gentlemen of the jury: The defendant, Jamie Lee, is charged with stealing a 2004 red Corvette. The evidence will show that the car was stolen on February 8th and the defendant was arrested driving it the next day. The defendant's fingerprints were found on the keys. We will prove beyond a reasonable doubt that Jamie Lee is guilty.",
+        "timestamp": "2025-04-19T09:02:30Z"
+      },
+      {
+        "turn": 9,
+        "role": "judge",
+        "content": "Defense, your opening statement.",
+        "timestamp": "2025-04-19T09:03:00Z"
+      },
+      {
+        "turn": 10,
+        "role": "defense",
+        "content": "Your Honor, ladies and gentlemen of the jury: My client is presumed innocent. You will hear that Jamie Lee was simply returning a car that someone else had stolen. The prosecution cannot prove intent to steal beyond a reasonable doubt.",
+        "timestamp": "2025-04-19T09:03:30Z"
+      },
+      {
+        "turn": 11,
+        "role": "judge",
+        "content": "Prosecution, call your first witness.",
+        "timestamp": "2025-04-19T09:04:00Z"
+      },
+      {
+        "turn": 12,
+        "role": "prosecution",
+        "content": "The People call Pat Martinez, the owner of the car.",
+        "timestamp": "2025-04-19T09:04:20Z"
+      },
+      {
+        "turn": 13,
+        "role": "bailiff",
+        "content": "Please stand. Do you swear to tell the truth, the whole truth, and nothing but the truth?",
+        "timestamp": "2025-04-19T09:04:30Z"
+      },
+      {
+        "turn": 14,
+        "role": "witness",
+        "name": "Pat Martinez",
+        "content": "I do.",
+        "timestamp": "2025-04-19T09:04:40Z"
+      },
+      {
+        "turn": 15,
+        "role": "prosecution",
+        "content": "Mr. Martinez, did you own a red 2004 Corvette on February 8th?",
+        "timestamp": "2025-04-19T09:05:00Z"
+      },
+      {
+        "turn": 16,
+        "role": "witness",
+        "name": "Pat Martinez",
+        "content": "Yes, I did.",
+        "timestamp": "2025-04-19T09:05:10Z"
+      },
+      {
+        "turn": 17,
+        "role": "prosecution",
+        "content": "Did you give anyone permission to take or drive the car?",
+        "timestamp": "2025-04-19T09:05:20Z"
+      },
+      {
+        "turn": 18,
+        "role": "witness",
+        "name": "Pat Martinez",
+        "content": "No, I did not.",
+        "timestamp": "2025-04-19T09:05:30Z"
+      },
+      {
+        "turn": 19,
+        "role": "prosecution",
+        "content": "Thank you, no further questions.",
+        "timestamp": "2025-04-19T09:05:40Z"
+      },
+      {
+        "turn": 20,
+        "role": "judge",
+        "content": "Defense, your cross-examination.",
+        "timestamp": "2025-04-19T09:05:50Z"
+      },
+      {
+        "turn": 21,
+        "role": "defense",
+        "content": "Mr. Martinez, were the keys to the Corvette always secure?",
+        "timestamp": "2025-04-19T09:06:00Z"
+      },
+      {
+        "turn": 22,
+        "role": "witness",
+        "name": "Pat Martinez",
+        "content": "They were in a locked office.",
+        "timestamp": "2025-04-19T09:06:10Z"
+      },
+      {
+        "turn": 23,
+        "role": "defense",
+        "content": "Is it possible someone else accessed the keys?",
+        "timestamp": "2025-04-19T09:06:20Z"
+      },
+      {
+        "turn": 24,
+        "role": "witness",
+        "name": "Pat Martinez",
+        "content": "I suppose it is possible.",
+        "timestamp": "2025-04-19T09:06:30Z"
+      },
+      {
+        "turn": 25,
+        "role": "defense",
+        "content": "No further questions.",
+        "timestamp": "2025-04-19T09:06:40Z"
+      },
+      {
+        "turn": 26,
+        "role": "judge",
+        "content": "The witness is excused. Prosecution, your next witness.",
+        "timestamp": "2025-04-19T09:07:00Z"
+      },
+      {
+        "turn": 27,
+        "role": "prosecution",
+        "content": "The People call Officer Riley.",
+        "timestamp": "2025-04-19T09:07:10Z"
+      },
+      {
+        "turn": 28,
+        "role": "bailiff",
+        "content": "Please stand. Do you swear to tell the truth, the whole truth, and nothing but the truth?",
+        "timestamp": "2025-04-19T09:07:20Z"
+      },
+      {
+        "turn": 29,
+        "role": "witness",
+        "name": "Officer Riley",
+        "content": "I do.",
+        "timestamp": "2025-04-19T09:07:30Z"
+      },
+      {
+        "turn": 30,
+        "role": "prosecution",
+        "content": "Officer Riley, where were you on February 9th?",
+        "timestamp": "2025-04-19T09:07:40Z"
+      },
+      {
+        "turn": 31,
+        "role": "witness",
+        "name": "Officer Riley",
+        "content": "I was patrolling Highway 4 near Martinez.",
+        "timestamp": "2025-04-19T09:07:50Z"
+      },
+      {
+        "turn": 32,
+        "role": "prosecution",
+        "content": "Did you observe a red 2004 Corvette?",
+        "timestamp": "2025-04-19T09:08:00Z"
+      },
+      {
+        "turn": 33,
+        "role": "witness",
+        "name": "Officer Riley",
+        "content": "Yes, matching the description of a stolen vehicle.",
+        "timestamp": "2025-04-19T09:08:10Z"
+      },
+      {
+        "turn": 34,
+        "role": "prosecution",
+        "content": "Did you stop the vehicle?",
+        "timestamp": "2025-04-19T09:08:20Z"
+      },
+      {
+        "turn": 35,
+        "role": "witness",
+        "name": "Officer Riley",
+        "content": "Yes, and arrested the driver, Jamie Lee.",
+        "timestamp": "2025-04-19T09:08:30Z"
+      },
+      {
+        "turn": 36,
+        "role": "prosecution",
+        "content": "Did you find anything in the car?",
+        "timestamp": "2025-04-19T09:08:40Z"
+      },
+      {
+        "turn": 37,
+        "role": "witness",
+        "name": "Officer Riley",
+        "content": "A set of keys in the ignition, which appeared to be shaved master keys.",
+        "timestamp": "2025-04-19T09:08:50Z"
+      },
+      {
+        "turn": 38,
+        "role": "prosecution",
+        "content": "Your Honor, I move to admit these keys as People's Exhibit 1.",
+        "timestamp": "2025-04-19T09:09:00Z"
+      },
+      {
+        "turn": 39,
+        "role": "judge",
+        "content": "Defense, any objection?",
+        "timestamp": "2025-04-19T09:09:10Z"
+      },
+      {
+        "turn": 40,
+        "role": "defense",
+        "content": "No objection, Your Honor.",
+        "timestamp": "2025-04-19T09:09:20Z"
+      },
+      {
+        "turn": 41,
+        "role": "judge",
+        "content": "People's Exhibit 1 is admitted.",
+        "timestamp": "2025-04-19T09:09:30Z"
+      },
+      {
+        "turn": 42,
+        "role": "prosecution",
+        "content": "No further questions.",
+        "timestamp": "2025-04-19T09:09:40Z"
+      },
+      {
+        "turn": 43,
+        "role": "judge",
+        "content": "Defense, cross-examination.",
+        "timestamp": "2025-04-19T09:09:50Z"
+      },
+      {
+        "turn": 44,
+        "role": "defense",
+        "content": "Officer Riley, did you see anyone else with the defendant?",
+        "timestamp": "2025-04-19T09:10:00Z"
+      },
+      {
+        "turn": 45,
+        "role": "witness",
+        "name": "Officer Riley",
+        "content": "No, the defendant was alone.",
+        "timestamp": "2025-04-19T09:10:10Z"
+      },
+      {
+        "turn": 46,
+        "role": "defense",
+        "content": "Did the defendant cooperate with your instructions?",
+        "timestamp": "2025-04-19T09:10:20Z"
+      },
+      {
+        "turn": 47,
+        "role": "witness",
+        "name": "Officer Riley",
+        "content": "Yes.",
+        "timestamp": "2025-04-19T09:10:30Z"
+      },
+      {
+        "turn": 48,
+        "role": "defense",
+        "content": "No further questions.",
+        "timestamp": "2025-04-19T09:10:40Z"
+      },
+      {
+        "turn": 49,
+        "role": "judge",
+        "content": "The witness is excused. Prosecution, any further witnesses?",
+        "timestamp": "2025-04-19T09:11:00Z"
+      },
+      {
+        "turn": 50,
+        "role": "prosecution",
+        "content": "Yes, the People call Dr. Kim, fingerprint examiner.",
+        "timestamp": "2025-04-19T09:11:10Z"
+      },
+      {
+        "turn": 51,
+        "role": "bailiff",
+        "content": "Please stand. Do you swear to tell the truth, the whole truth, and nothing but the truth?",
+        "timestamp": "2025-04-19T09:11:20Z"
+      },
+      {
+        "turn": 52,
+        "role": "witness",
+        "name": "Dr. Kim",
+        "content": "I do.",
+        "timestamp": "2025-04-19T09:11:30Z"
+      },
+      {
+        "turn": 53,
+        "role": "prosecution",
+        "content": "Dr. Kim, did you examine the keys marked as People's Exhibit 1?",
+        "timestamp": "2025-04-19T09:11:40Z"
+      },
+      {
+        "turn": 54,
+        "role": "witness",
+        "name": "Dr. Kim",
+        "content": "Yes, I did.",
+        "timestamp": "2025-04-19T09:11:50Z"
+      },
+      {
+        "turn": 55,
+        "role": "prosecution",
+        "content": "Did you find any fingerprints on the keys?",
+        "timestamp": "2025-04-19T09:12:00Z"
+      },
+      {
+        "turn": 56,
+        "role": "witness",
+        "name": "Dr. Kim",
+        "content": "Yes, two prints matched the defendant's fingerprints.",
+        "timestamp": "2025-04-19T09:12:10Z"
+      },
+      {
+        "turn": 57,
+        "role": "prosecution",
+        "content": "Thank you, no further questions.",
+        "timestamp": "2025-04-19T09:12:20Z"
+      },
+      {
+        "turn": 58,
+        "role": "judge",
+        "content": "Defense, cross-examination.",
+        "timestamp": "2025-04-19T09:12:30Z"
+      },
+      {
+        "turn": 59,
+        "role": "defense",
+        "content": "Dr. Kim, did you find any fingerprints on the keys that did not belong to my client?",
+        "timestamp": "2025-04-19T09:12:40Z"
+      },
+      {
+        "turn": 60,
+        "role": "witness",
+        "name": "Dr. Kim",
+        "content": "Yes, several prints could not be identified.",
+        "timestamp": "2025-04-19T09:12:50Z"
+      },
+      {
+        "turn": 61,
+        "role": "defense",
+        "content": "Thank you, no further questions.",
+        "timestamp": "2025-04-19T09:13:00Z"
+      },
+      {
+        "turn": 62,
+        "role": "judge",
+        "content": "The witness is excused. Prosecution, do you rest?",
+        "timestamp": "2025-04-19T09:13:10Z"
+      },
+      {
+        "turn": 63,
+        "role": "prosecution",
+        "content": "The People rest, Your Honor.",
+        "timestamp": "2025-04-19T09:13:20Z"
+      },
+      {
+        "turn": 64,
+        "role": "judge",
+        "content": "Defense, your case.",
+        "timestamp": "2025-04-19T09:13:30Z"
+      },
+      {
+        "turn": 65,
+        "role": "defense",
+        "content": "I call the defendant, Jamie Lee.",
+        "timestamp": "2025-04-19T09:13:40Z"
+      },
+      {
+        "turn": 66,
+        "role": "bailiff",
+        "content": "Please stand. Do you swear to tell the truth, the whole truth, and nothing but the truth?",
+        "timestamp": "2025-04-19T09:13:50Z"
+      },
+      {
+        "turn": 67,
+        "role": "defendant",
+        "content": "I do.",
+        "timestamp": "2025-04-19T09:14:00Z"
+      },
+      {
+        "turn": 68,
+        "role": "defense",
+        "content": "Jamie, where were you on the afternoon of February 9th?",
+        "timestamp": "2025-04-19T09:14:10Z"
+      },
+      {
+        "turn": 69,
+        "role": "defendant",
+        "content": "At a convenience store in Walnut Creek.",
+        "timestamp": "2025-04-19T09:14:20Z"
+      },
+      {
+        "turn": 70,
+        "role": "defense",
+        "content": "Did you know the car was stolen when you got into it?",
+        "timestamp": "2025-04-19T09:14:30Z"
+      },
+      {
+        "turn": 71,
+        "role": "defendant",
+        "content": "No, not at first. The driver, Rick, told me after we were on the freeway.",
+        "timestamp": "2025-04-19T09:14:40Z"
+      },
+      {
+        "turn": 72,
+        "role": "defense",
+        "content": "What did you do after learning this?",
+        "timestamp": "2025-04-19T09:14:50Z"
+      },
+      {
+        "turn": 73,
+        "role": "defendant",
+        "content": "Rick left and I decided to return the car to Martinez Car Sales.",
+        "timestamp": "2025-04-19T09:15:00Z"
+      },
+      {
+        "turn": 74,
+        "role": "defense",
+        "content": "Did you ever intend to keep the car?",
+        "timestamp": "2025-04-19T09:15:10Z"
+      },
+      {
+        "turn": 75,
+        "role": "defendant",
+        "content": "No, I just wanted to return it.",
+        "timestamp": "2025-04-19T09:15:20Z"
+      },
+      {
+        "turn": 76,
+        "role": "defense",
+        "content": "No further questions.",
+        "timestamp": "2025-04-19T09:15:30Z"
+      },
+      {
+        "turn": 77,
+        "role": "judge",
+        "content": "Prosecution, cross-examination.",
+        "timestamp": "2025-04-19T09:15:40Z"
+      },
+      {
+        "turn": 78,
+        "role": "prosecution",
+        "content": "Jamie, why didn't you call the police?",
+        "timestamp": "2025-04-19T09:15:50Z"
+      },
+      {
+        "turn": 79,
+        "role": "defendant",
+        "content": "I didn't have a phone and just wanted to get the car back.",
+        "timestamp": "2025-04-19T09:16:00Z"
+      },
+      {
+        "turn": 80,
+        "role": "prosecution",
+        "content": "You knew the car was stolen but still drove it?",
+        "timestamp": "2025-04-19T09:16:10Z"
+      },
+      {
+        "turn": 81,
+        "role": "defendant",
+        "content": "Yes, but only to return it.",
+        "timestamp": "2025-04-19T09:16:20Z"
+      },
+      {
+        "turn": 82,
+        "role": "prosecution",
+        "content": "No further questions.",
+        "timestamp": "2025-04-19T09:16:30Z"
+      },
+      {
+        "turn": 83,
+        "role": "judge",
+        "content": "The witness is excused. Defense, any further witnesses?",
+        "timestamp": "2025-04-19T09:16:40Z"
+      },
+      {
+        "turn": 84,
+        "role": "defense",
+        "content": "No, Your Honor. The defense rests.",
+        "timestamp": "2025-04-19T09:16:50Z"
+      },
+      {
+        "turn": 85,
+        "role": "judge",
+        "content": "Ladies and gentlemen of the jury, I will now instruct you on the law you must apply. The prosecution must prove the defendant drove or took the car, did so without permission, and intended to deprive the owner, either permanently or temporarily. If you believe all three beyond a reasonable doubt, you must find the defendant guilty. Otherwise, you must find the defendant not guilty.",
+        "timestamp": "2025-04-19T09:17:00Z"
+      },
+      {
+        "turn": 86,
+        "role": "judge",
+        "content": "Are both sides ready for closing arguments?",
+        "timestamp": "2025-04-19T09:17:10Z"
+      },
+      {
+        "turn": 87,
+        "role": "prosecution",
+        "content": "Yes, Your Honor.",
+        "timestamp": "2025-04-19T09:17:20Z"
+      },
+      {
+        "turn": 88,
+        "role": "defense",
+        "content": "Yes, Your Honor.",
+        "timestamp": "2025-04-19T09:17:30Z"
+      },
+      {
+        "turn": 89,
+        "role": "prosecution",
+        "content": "Ladies and gentlemen, the evidence is clear. The defendant was found driving the stolen Corvette, with fingerprints on the keys. The story about returning the car is not credible. The law requires you to find the defendant guilty.",
+        "timestamp": "2025-04-19T09:17:40Z"
+      },
+      {
+        "turn": 90,
+        "role": "defense",
+        "content": "Ladies and gentlemen, my client was trying to do the right thing. There is reasonable doubt about intent. You must find Jamie Lee not guilty.",
+        "timestamp": "2025-04-19T09:17:50Z"
+      },
+      {
+        "turn": 91,
+        "role": "judge",
+        "content": "Jury, you may now deliberate.",
+        "timestamp": "2025-04-19T09:18:00Z"
+      },
+      {
+        "turn": 92,
+        "role": "jury",
+        "content": "After careful consideration, we find the defendant not guilty.",
+        "timestamp": "2025-04-19T09:45:00Z"
+      },
+      {
+        "turn": 93,
+        "role": "judge",
+        "content": "The jury has found the defendant not guilty. Jamie Lee, you are free to go. Court is adjourned.",
+        "timestamp": "2025-04-19T09:46:00Z"
+      }
+    ]
+  }
+  
